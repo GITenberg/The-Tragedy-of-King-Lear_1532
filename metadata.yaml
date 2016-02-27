@@ -1,0 +1,37 @@
+_repo: The-Tragedy-of-King-Lear_1532
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: <p><i>King Lear</i> is considered one of Shakespeare's greatest plays.
+  King Lear decides to step down and divide his kingdom between his three daughters.
+  When his youngest and favorite daughter refuses to compete and perform her love
+  for him, he is enraged and disowns her. She remains loyal to him, however, though
+  he slides into madness and his other children betray him.
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Kings and rulers -- Drama'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Aging parents -- Drama'
+- !lcsh 'Britons -- Drama'
+- !lcsh 'Lear, King (Legendary character) -- Drama'
+- !lcsh 'Inheritance and succession -- Drama'
+- !lcsh 'Tragedies'
+title: The Tragedy of King Lear
+url: http://www.gutenberg.org/ebooks/1532
