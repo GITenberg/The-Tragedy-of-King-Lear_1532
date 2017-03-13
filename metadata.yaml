@@ -1,5 +1,8 @@
 _repo: The-Tragedy-of-King-Lear_1532
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -16,6 +19,8 @@ description: <p><i>King Lear</i> is considered one of Shakespeare's greatest pla
   When his youngest and favorite daughter refuses to compete and perform her love
   for him, he is enraged and disowns her. She remains loyal to him, however, though
   he slides into madness and his other children betray him.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1532#The-Tragedy-of-King-Lear
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1998-11-01'
 gutenberg_type: Text
