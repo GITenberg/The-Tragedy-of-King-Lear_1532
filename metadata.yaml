@@ -1,5 +1,5 @@
 _repo: The-Tragedy-of-King-Lear_1532
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -39,5 +39,6 @@ subjects:
 - !lcsh 'Lear, King (Legendary character) -- Drama'
 - !lcsh 'Inheritance and succession -- Drama'
 - !lcsh 'Tragedies'
+- GITenberg
 title: The Tragedy of King Lear
 url: http://www.gutenberg.org/ebooks/1532
